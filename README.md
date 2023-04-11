@@ -1,7 +1,7 @@
 # SDLC Activity Based Learning - scientific calculator
 ![maths2](https://user-images.githubusercontent.com/36398260/114144855-67df4780-9933-11eb-9ffe-48cf0093065c.jpg)
-Build | Code Quality | Unity | [Git Inspector](using github.io option)
-------|----------|-------|--------------
+Build | Code Quality | Unity |
+------|----------|-------|
 [![C/C++ CI - Build Status](https://github.com/sxk9676/Agile-Multi-File-C-Language-Scientific-Computation/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/sxk9676/Agile-Multi-File-C-Language-Scientific-Computation/actions/workflows/c-cpp.yml)|[![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/sxk9676/Agile-Multi-File-C-Language-Scientific-Computation/actions/workflows/code_quality_dyanamic.yml/badge.svg)](https://github.com/sxk9676/Agile-Multi-File-C-Language-Scientific-Computation/actions/workflows/code_quality_dyanamic.yml)
 | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/fd98a6e8584244428c888aabbcd02c0a)](https://app.codacy.com/gh/sxk9676/Agile-Multi-File-C-Language-Scientific-Computation/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)|
 utm_source=github.com&amp;utm_medium=referral&amp;utm_content=satyadevkalakonda/LTTS_Project&amp;utm_campaign=Badge_Grade) [![CI-Coverage](https://github.com/satyadevkalakonda/LTTS_Project/actions/workflows/gcov.yml/badge.svg)](https://github.com/satyadevkalakonda/LTTS_Project/actions/workflows/gcov.yml)| [![Unit Testing - Unity](https://github.com/satyadevkalakonda/LTTS_Project/actions/workflows/unity.yml/badge.svg)](https://github.com/satyadevkalakonda/LTTS_Project/actions/workflows/unity.yml)|[![Contribution Check - Git Inspector](https://github.com/satyadevkalakonda/LTTS_Project/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/satyadevkalakonda/LTTS_Project/actions/workflows/gitinspector.yml)
