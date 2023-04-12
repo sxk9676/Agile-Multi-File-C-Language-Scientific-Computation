@@ -45,8 +45,7 @@ Depending upon the project how well it is built and all the requirements will me
     
 
 ## SWOT ANALYSIS
-![swot analysis](https://user-images.githubusercontent.com/36398260/113824520-89a6c600-979d-11eb-99d8-b258873850a1.png)
-
+![swot analysis](https://user-images.githubusercontent.com/130239154/231544240-1ddfbd4c-71e1-4299-90af-d21adf0b1e1b.png)
 
 # 4W&#39;s and 1&#39;H
 
